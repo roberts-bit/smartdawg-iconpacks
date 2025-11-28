@@ -369,7 +369,7 @@
     {
       "id": "snake",
       "label": "Snake",
-      "icon": "play_snake.png",
+      "icon": "play_snake.jpg",
       "tts": {
         "fileBase": "play_snake",
         "templates": {
