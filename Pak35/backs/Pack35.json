@@ -1,0 +1,32 @@
+{
+  "packId": "Pak35",
+  "description": "Example emotions pack with happy/mad",
+  "commands": [
+    {
+      "id": "happy",
+      "label": "Happy",
+      "icon": "happy.jpg",
+      "tts": {
+        "fileBase": "happy",
+        "templates": {
+          "1": "{dogName} is happy",
+          "2": "{dogName} feels happy",
+          "3": "{dogName} is really happy"
+        }
+      }
+    },
+    {
+      "id": "mad",
+      "label": "Mad",
+      "icon": "mad.jpg",
+      "tts": {
+        "fileBase": "mad",
+        "templates": {
+          "1": "{dogName} is mad",
+          "2": "{dogName} feels mad",
+          "3": "{dogName} is really mad"
+        }
+      }
+    }
+  ]
+}

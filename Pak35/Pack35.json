@@ -1,0 +1,409 @@
+{
+  "packId": "Pak35",
+  "description": "Starter pack based on current SmartDawg icons",
+  "commands": [
+    {
+      "id": "ball",
+      "label": "Ball",
+      "icon": "ball.png",
+      "tts": {
+        "fileBase": "ball",
+        "templates": {
+          "1": "{dogName} wants the ball",
+          "2": "{dogName} wants to play ball",
+          "3": "{dogName} is asking for the ball"
+        }
+      }
+    },
+    {
+      "id": "bike_ride",
+      "label": "Bike ride",
+      "icon": "bike ride.png",
+      "tts": {
+        "fileBase": "bike_ride",
+        "templates": {
+          "1": "{dogName} wants a bike ride",
+          "2": "{dogName} wants to go for a bike ride",
+          "3": "{dogName} is ready for a bike ride"
+        }
+      }
+    },
+    {
+      "id": "bone",
+      "label": "Bone",
+      "icon": "Bone.png",
+      "tts": {
+        "fileBase": "bone",
+        "templates": {
+          "1": "{dogName} wants a bone",
+          "2": "{dogName} is asking for a bone",
+          "3": "{dogName} wants a chew bone"
+        }
+      }
+    },
+    {
+      "id": "cold",
+      "label": "Cold",
+      "icon": "cold.png",
+      "tts": {
+        "fileBase": "cold",
+        "templates": {
+          "1": "{dogName} feels cold",
+          "2": "{dogName} is cold",
+          "3": "{dogName} thinks it's too cold"
+        }
+      }
+    },
+    {
+      "id": "dark",
+      "label": "Dark",
+      "icon": "dark.png",
+      "tts": {
+        "fileBase": "dark",
+        "templates": {
+          "1": "{dogName} thinks it's getting dark",
+          "2": "{dogName} notices it's dark",
+          "3": "{dogName} is worried about the dark"
+        }
+      }
+    },
+    {
+      "id": "dog_swimming",
+      "label": "Dog swimming",
+      "icon": "dog_swimming.png",
+      "tts": {
+        "fileBase": "dog_swimming",
+        "templates": {
+          "1": "{dogName} wants to go swimming",
+          "2": "{dogName} wants to swim",
+          "3": "{dogName} is ready to swim"
+        }
+      }
+    },
+    {
+      "id": "go_outside_and_play",
+      "label": "Go outside and play",
+      "icon": "Go outside and play.png",
+      "tts": {
+        "fileBase": "go_outside_and_play",
+        "templates": {
+          "1": "{dogName} wants to go outside and play",
+          "2": "{dogName} wants outside playtime",
+          "3": "{dogName} is asking to go out and play"
+        }
+      }
+    },
+    {
+      "id": "go_outside",
+      "label": "Go outside",
+      "icon": "go outside.png",
+      "tts": {
+        "fileBase": "go_outside",
+        "templates": {
+          "1": "{dogName} wants to go outside",
+          "2": "{dogName} is asking to go outside",
+          "3": "{dogName} needs to go outside"
+        }
+      }
+    },
+    {
+      "id": "happy",
+      "label": "Happy",
+      "icon": "Happy.jpg",
+      "tts": {
+        "fileBase": "happy",
+        "templates": {
+          "1": "{dogName} is happy",
+          "2": "{dogName} feels happy",
+          "3": "{dogName} is really happy"
+        }
+      }
+    },
+    {
+      "id": "help",
+      "label": "Help",
+      "icon": "help.png",
+      "tts": {
+        "fileBase": "help",
+        "templates": {
+          "1": "{dogName} needs help",
+          "2": "{dogName} is asking for help",
+          "3": "{dogName} wants your help"
+        }
+      }
+    },
+    {
+      "id": "hot",
+      "label": "Hot",
+      "icon": "hot.png",
+      "tts": {
+        "fileBase": "hot",
+        "templates": {
+          "1": "{dogName} feels hot",
+          "2": "{dogName} is too hot",
+          "3": "{dogName} thinks it's too hot"
+        }
+      }
+    },
+    {
+      "id": "hurt",
+      "label": "Hurt",
+      "icon": "Hurt.png",
+      "tts": {
+        "fileBase": "hurt",
+        "templates": {
+          "1": "{dogName} is hurt",
+          "2": "{dogName} feels hurt",
+          "3": "{dogName} needs help, hurt"
+        }
+      }
+    },
+    {
+      "id": "inside",
+      "label": "Inside",
+      "icon": "inside.png",
+      "tts": {
+        "fileBase": "inside",
+        "templates": {
+          "1": "{dogName} wants to go inside",
+          "2": "{dogName} is asking to go inside",
+          "3": "{dogName} wants to be inside"
+        }
+      }
+    },
+    {
+      "id": "light",
+      "label": "Light",
+      "icon": "light.png",
+      "tts": {
+        "fileBase": "light",
+        "templates": {
+          "1": "{dogName} wants the light on",
+          "2": "{dogName} is asking for more light",
+          "3": "{dogName} thinks it's too dark, wants light"
+        }
+      }
+    },
+    {
+      "id": "love",
+      "label": "Love",
+      "icon": "love.png",
+      "tts": {
+        "fileBase": "love",
+        "templates": {
+          "1": "{dogName} wants love",
+          "2": "{dogName} wants a hug",
+          "3": "{dogName} is asking for affection"
+        }
+      }
+    },
+    {
+      "id": "mad",
+      "label": "Mad",
+      "icon": "Mad.jpg",
+      "tts": {
+        "fileBase": "mad",
+        "templates": {
+          "1": "{dogName} is mad",
+          "2": "{dogName} feels mad",
+          "3": "{dogName} is really mad"
+        }
+      }
+    },
+    {
+      "id": "missing",
+      "label": "Missing",
+      "icon": "missing.png",
+      "tts": {
+        "fileBase": "missing",
+        "templates": {
+          "1": "{dogName} thinks something is missing",
+          "2": "{dogName} is missing something",
+          "3": "{dogName} cannot find it"
+        }
+      }
+    },
+    {
+      "id": "more",
+      "label": "More",
+      "icon": "more.png",
+      "tts": {
+        "fileBase": "more",
+        "templates": {
+          "1": "{dogName} wants more",
+          "2": "{dogName} is asking for more",
+          "3": "{dogName} would like some more"
+        }
+      }
+    },
+    {
+      "id": "no",
+      "label": "No",
+      "icon": "no.png",
+      "tts": {
+        "fileBase": "no",
+        "templates": {
+          "1": "{dogName} says no",
+          "2": "No",
+          "3": "{dogName} does not want that"
+        }
+      }
+    },
+    {
+      "id": "not_feeling_good",
+      "label": "Not feeling good",
+      "icon": "notfeelinggood.jpg",
+      "tts": {
+        "fileBase": "not_feeling_good",
+        "templates": {
+          "1": "{dogName} is not feeling good",
+          "2": "{dogName} feels sick",
+          "3": "{dogName} does not feel well"
+        }
+      }
+    },
+    {
+      "id": "old_hot",
+      "label": "Old hot",
+      "icon": "old_hot.png",
+      "tts": {
+        "fileBase": "old_hot",
+        "templates": {
+          "1": "{dogName} feels hot",
+          "2": "{dogName} is too hot",
+          "3": "{dogName} thinks it's too hot"
+        }
+      }
+    },
+    {
+      "id": "outside",
+      "label": "Outside",
+      "icon": "outside.jpg",
+      "tts": {
+        "fileBase": "outside",
+        "templates": {
+          "1": "{dogName} wants outside",
+          "2": "{dogName} is thinking about outside",
+          "3": "{dogName} wants to be outside"
+        }
+      }
+    },
+    {
+      "id": "outside_play",
+      "label": "Outside play",
+      "icon": "outsideplay.jpg",
+      "tts": {
+        "fileBase": "outside_play",
+        "templates": {
+          "1": "{dogName} wants to play outside",
+          "2": "{dogName} wants outside playtime",
+          "3": "{dogName} is asking to play outside"
+        }
+      }
+    },
+    {
+      "id": "play_snake",
+      "label": "Play snake",
+      "icon": "play snake.png",
+      "tts": {
+        "fileBase": "play_snake",
+        "templates": {
+          "1": "{dogName} wants to play with the snake toy",
+          "2": "{dogName} is asking for the snake toy",
+          "3": "{dogName} wants the snake toy"
+        }
+      }
+    },
+    {
+      "id": "play",
+      "label": "Play",
+      "icon": "play.jpg",
+      "tts": {
+        "fileBase": "play",
+        "templates": {
+          "1": "{dogName} wants to play",
+          "2": "{dogName} is asking to play",
+          "3": "{dogName} is ready to play"
+        }
+      }
+    },
+    {
+      "id": "possum",
+      "label": "Possum",
+      "icon": "possum.png",
+      "tts": {
+        "fileBase": "possum",
+        "templates": {
+          "1": "{dogName} sees a possum",
+          "2": "Possum outside",
+          "3": "{dogName} is alerting about a possum"
+        }
+      }
+    },
+    {
+      "id": "rat",
+      "label": "Rat",
+      "icon": "rat.jpg",
+      "tts": {
+        "fileBase": "rat",
+        "templates": {
+          "1": "{dogName} sees a rat",
+          "2": "Rat outside",
+          "3": "{dogName} is alerting about a rat"
+        }
+      }
+    },
+    {
+      "id": "ratcoon",
+      "label": "Ratcoon",
+      "icon": "ratcoon.png",
+      "tts": {
+        "fileBase": "ratcoon",
+        "templates": {
+          "1": "{dogName} sees a raccoon",
+          "2": "Raccoon outside",
+          "3": "{dogName} is alerting about a raccoon"
+        }
+      }
+    },
+    {
+      "id": "snake",
+      "label": "Snake",
+      "icon": "snake.jpg",
+      "tts": {
+        "fileBase": "snake",
+        "templates": {
+          "1": "{dogName} sees a snake",
+          "2": "Snake outside",
+          "3": "{dogName} is alerting about a snake"
+        }
+      }
+    },
+    {
+      "id": "toy_sock",
+      "label": "Toy sock",
+      "icon": "toy_sock.png",
+      "tts": {
+        "fileBase": "toy_sock",
+        "templates": {
+          "1": "{dogName} wants the sock toy",
+          "2": "{dogName} is asking for the toy sock",
+          "3": "{dogName} wants to play with the sock toy"
+        }
+      }
+    },
+    {
+      "id": "yes",
+      "label": "Yes",
+      "icon": "yes.png",
+      "tts": {
+        "fileBase": "yes",
+        "templates": {
+          "1": "{dogName} says yes",
+          "2": "Yes",
+          "3": "{dogName} agrees"
+        }
+      }
+    }
+  ]
+}
