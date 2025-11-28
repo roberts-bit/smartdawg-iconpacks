@@ -18,7 +18,7 @@
     {
       "id": "bike_ride",
       "label": "Bike ride",
-      "icon": "bike ride.png",
+      "icon": "bikeride.png",
       "tts": {
         "fileBase": "bike_ride",
         "templates": {
@@ -83,7 +83,7 @@
     {
       "id": "go_outside_and_play",
       "label": "Go outside and play",
-      "icon": "Go outside and play.png",
+      "icon": "outside_play.png",
       "tts": {
         "fileBase": "go_outside_and_play",
         "templates": {
@@ -96,7 +96,7 @@
     {
       "id": "go_outside",
       "label": "Go outside",
-      "icon": "go outside.png",
+      "icon": "go_outside.png",
       "tts": {
         "fileBase": "go_outside",
         "templates": {
@@ -304,7 +304,7 @@
     {
       "id": "play_snake",
       "label": "Play snake",
-      "icon": "play snake.png",
+      "icon": "play_snake.png",
       "tts": {
         "fileBase": "play_snake",
         "templates": {
