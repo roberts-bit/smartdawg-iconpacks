@@ -83,7 +83,7 @@
     {
       "id": "go_outside_and_play",
       "label": "Go outside and play",
-      "icon": "outside_play.png",
+      "icon": "outside_play.jpg",
       "tts": {
         "fileBase": "outside_play",
         "templates": {
@@ -96,9 +96,9 @@
     {
       "id": "go_outside",
       "label": "Go outside",
-      "icon": "outside.png",
+      "icon": "go_outside.png",
       "tts": {
-        "fileBase": "outside",
+        "fileBase": "go_outside",
         "templates": {
           "1": "{dogName} wants to go outside",
           "2": "{dogName} is asking to go outside",
