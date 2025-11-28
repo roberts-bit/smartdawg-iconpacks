@@ -289,19 +289,6 @@
       }
     },
     {
-      "id": "outside_play",
-      "label": "Outside play",
-      "icon": "outside_play.jpg",
-      "tts": {
-        "fileBase": "outside_play",
-        "templates": {
-          "1": "{dogName} wants to play outside",
-          "2": "{dogName} wants outside playtime",
-          "3": "{dogName} is asking to play outside"
-        }
-      }
-    },
-    {
       "id": "play_snake",
       "label": "Play snake",
       "icon": "play_snake.jpg",
