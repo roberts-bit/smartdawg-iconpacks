@@ -96,7 +96,7 @@
     {
       "id": "go_outside",
       "label": "Go outside",
-      "icon": "go_outside.png",
+      "icon": "go_outside.jpg",
       "tts": {
         "fileBase": "go_outside",
         "templates": {
@@ -254,7 +254,7 @@
       "label": "Not feeling good",
       "icon": "notfeelinggood.jpg",
       "tts": {
-        "fileBase": "not_feeling_good",
+        "fileBase": "notfeelinggood",
         "templates": {
           "1": "{dogName} is not feeling good",
           "2": "{dogName} feels sick",
@@ -304,7 +304,7 @@
     {
       "id": "play_snake",
       "label": "Play snake",
-      "icon": "play_snake.png",
+      "icon": "play_snake.jpg",
       "tts": {
         "fileBase": "play_snake",
         "templates": {
