@@ -291,7 +291,7 @@
     {
       "id": "outside_play",
       "label": "Outside play",
-      "icon": "outsideplay.jpg",
+      "icon": "outside_play.png",
       "tts": {
         "fileBase": "outside_play",
         "templates": {
@@ -369,9 +369,9 @@
     {
       "id": "snake",
       "label": "Snake",
-      "icon": "snake.jpg",
+      "icon": "play_snake.png",
       "tts": {
-        "fileBase": "snake",
+        "fileBase": "play_snake",
         "templates": {
           "1": "{dogName} sees a snake",
           "2": "Snake outside",
