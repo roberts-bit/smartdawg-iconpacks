@@ -96,9 +96,9 @@
     {
       "id": "go_outside",
       "label": "Go outside",
-      "icon": "go_outside.jpg",
+      "icon": "outside.jpg",
       "tts": {
-        "fileBase": "go_outside",
+        "fileBase": "outside",
         "templates": {
           "1": "{dogName} wants to go outside",
           "2": "{dogName} is asking to go outside",
