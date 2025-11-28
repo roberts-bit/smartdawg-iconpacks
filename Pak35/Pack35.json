@@ -291,7 +291,7 @@
     {
       "id": "outside_play",
       "label": "Outside play",
-      "icon": "outside_play.png",
+      "icon": "outside_play.jpg",
       "tts": {
         "fileBase": "outside_play",
         "templates": {
