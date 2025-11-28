@@ -20,7 +20,7 @@
       "label": "Bike ride",
       "icon": "bikeride.png",
       "tts": {
-        "fileBase": "bike_ride",
+        "fileBase": "bikeride",
         "templates": {
           "1": "{dogName} wants a bike ride",
           "2": "{dogName} wants to go for a bike ride",
@@ -85,7 +85,7 @@
       "label": "Go outside and play",
       "icon": "outside_play.png",
       "tts": {
-        "fileBase": "go_outside_and_play",
+        "fileBase": "outside_play",
         "templates": {
           "1": "{dogName} wants to go outside and play",
           "2": "{dogName} wants outside playtime",
@@ -96,9 +96,9 @@
     {
       "id": "go_outside",
       "label": "Go outside",
-      "icon": "go_outside.png",
+      "icon": "outside.png",
       "tts": {
-        "fileBase": "go_outside",
+        "fileBase": "outside",
         "templates": {
           "1": "{dogName} wants to go outside",
           "2": "{dogName} is asking to go outside",
