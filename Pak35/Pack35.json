@@ -10,8 +10,8 @@
         "fileBase": "ball",
         "templates": {
           "1": "{dogName} wants the ball",
-          "2": "{dogName} wants to play ball",
-          "3": "{dogName} is asking for the ball"
+          "2": "{dogName} ball",
+          "3": "ball"
         }
       }
     },
@@ -22,9 +22,9 @@
       "tts": {
         "fileBase": "bikeride",
         "templates": {
-          "1": "{dogName} wants a bike ride",
-          "2": "{dogName} wants to go for a bike ride",
-          "3": "{dogName} is ready for a bike ride"
+          "1": "{dogName} wants to go on a bikeride",
+          "2": "{dogName} bikeride",
+          "3": "bikeride"
         }
       }
     },
@@ -36,8 +36,8 @@
         "fileBase": "bone",
         "templates": {
           "1": "{dogName} wants a bone",
-          "2": "{dogName} is asking for a bone",
-          "3": "{dogName} wants a chew bone"
+          "2": "{dogName} bone",
+          "3": "bone"
         }
       }
     },
@@ -49,8 +49,8 @@
         "fileBase": "cold",
         "templates": {
           "1": "{dogName} feels cold",
-          "2": "{dogName} is cold",
-          "3": "{dogName} thinks it's too cold"
+          "2": "{dogName} cold",
+          "3": "cold"
         }
       }
     },
@@ -61,9 +61,9 @@
       "tts": {
         "fileBase": "dark",
         "templates": {
-          "1": "{dogName} thinks it's getting dark",
-          "2": "{dogName} notices it's dark",
-          "3": "{dogName} is worried about the dark"
+          "1": "Getting dark outside",
+          "2": "Getting dark",
+          "3": "Getting dark."
         }
       }
     },
@@ -75,8 +75,8 @@
         "fileBase": "dog_swimming",
         "templates": {
           "1": "{dogName} wants to go swimming",
-          "2": "{dogName} wants to swim",
-          "3": "{dogName} is ready to swim"
+          "2": "{dogName} swimming",
+          "3": "swimming"
         }
       }
     },
@@ -88,8 +88,8 @@
         "fileBase": "outside_play",
         "templates": {
           "1": "{dogName} wants to go outside and play",
-          "2": "{dogName} wants outside playtime",
-          "3": "{dogName} is asking to go out and play"
+          "2": "wants outside playtime",
+          "3": "outside and play"
         }
       }
     },
@@ -100,9 +100,9 @@
       "tts": {
         "fileBase": "happy",
         "templates": {
-          "1": "{dogName} is happy",
-          "2": "{dogName} feels happy",
-          "3": "{dogName} is really happy"
+          "1": "{dogName} wants to be happy",
+          "2": "{dogName} happy",
+          "3": "happy"
         }
       }
     },
@@ -114,8 +114,8 @@
         "fileBase": "help",
         "templates": {
           "1": "{dogName} needs help",
-          "2": "{dogName} is asking for help",
-          "3": "{dogName} wants your help"
+          "2": "{dogName} help",
+          "3": "help"
         }
       }
     },
@@ -127,8 +127,8 @@
         "fileBase": "hot",
         "templates": {
           "1": "{dogName} feels hot",
-          "2": "{dogName} is too hot",
-          "3": "{dogName} thinks it's too hot"
+          "2": "{dogName} hot",
+          "3": "hot"
         }
       }
     },
@@ -140,8 +140,8 @@
         "fileBase": "hurt",
         "templates": {
           "1": "{dogName} is hurt",
-          "2": "{dogName} feels hurt",
-          "3": "{dogName} needs help, hurt"
+          "2": "{dogName} hurt",
+          "3": "hurt"
         }
       }
     },
@@ -152,9 +152,9 @@
       "tts": {
         "fileBase": "inside",
         "templates": {
-          "1": "{dogName} wants to go inside",
-          "2": "{dogName} is asking to go inside",
-          "3": "{dogName} wants to be inside"
+          "1": "{dogName} wants inside",
+          "2": "{dogName} inside",
+          "3": "inside"
         }
       }
     },
@@ -165,9 +165,9 @@
       "tts": {
         "fileBase": "light",
         "templates": {
-          "1": "{dogName} wants the light on",
-          "2": "{dogName} is asking for more light",
-          "3": "{dogName} thinks it's too dark, wants light"
+          "1": "{dogName} notices it's light outside",
+          "2": "{dogName} light outside",
+          "3": "light outside"
         }
       }
     },
@@ -179,8 +179,8 @@
         "fileBase": "love",
         "templates": {
           "1": "{dogName} wants love",
-          "2": "{dogName} wants a hug",
-          "3": "{dogName} is asking for affection"
+          "2": "{dogName} love",
+          "3": "love"
         }
       }
     },
@@ -192,8 +192,8 @@
         "fileBase": "mad",
         "templates": {
           "1": "{dogName} is mad",
-          "2": "{dogName} feels mad",
-          "3": "{dogName} is really mad"
+          "2": "{dogName} mad",
+          "3": "mad"
         }
       }
     },
@@ -218,8 +218,8 @@
         "fileBase": "more",
         "templates": {
           "1": "{dogName} wants more",
-          "2": "{dogName} is asking for more",
-          "3": "{dogName} would like some more"
+          "2": "{dogName} more",
+          "3": "more"
         }
       }
     },
@@ -232,7 +232,7 @@
         "templates": {
           "1": "{dogName} says no",
           "2": "No",
-          "3": "{dogName} does not want that"
+          "3": "No"
         }
       }
     },
@@ -243,9 +243,9 @@
       "tts": {
         "fileBase": "notfeelinggood",
         "templates": {
-          "1": "{dogName} is not feeling good",
-          "2": "{dogName} feels sick",
-          "3": "{dogName} does not feel well"
+          "1": "{dogName} not feeling good",
+          "2": "{dogName} not feeling good",
+          "3": "{dogName} not feeling good"
         }
       }
     },
@@ -257,8 +257,8 @@
         "fileBase": "old_hot",
         "templates": {
           "1": "{dogName} feels hot",
-          "2": "{dogName} is too hot",
-          "3": "{dogName} thinks it's too hot"
+          "2": "{dogName} hot",
+          "3": "hot"
         }
       }
     },
@@ -283,8 +283,8 @@
         "fileBase": "play_snake",
         "templates": {
           "1": "{dogName} wants to play with the snake toy",
-          "2": "{dogName} is asking for the snake toy",
-          "3": "{dogName} wants the snake toy"
+          "2": "{dogName} snake",
+          "3": "snake"
         }
       }
     },
@@ -310,7 +310,7 @@
         "templates": {
           "1": "{dogName} sees a possum",
           "2": "Possum outside",
-          "3": "{dogName} is alerting about a possum"
+          "3": "possum"
         }
       }
     },
@@ -323,7 +323,7 @@
         "templates": {
           "1": "{dogName} sees a rat",
           "2": "Rat outside",
-          "3": "{dogName} is alerting about a rat"
+          "3": "rat"
         }
       }
     },
@@ -336,20 +336,7 @@
         "templates": {
           "1": "{dogName} sees a raccoon",
           "2": "Raccoon outside",
-          "3": "{dogName} is alerting about a raccoon"
-        }
-      }
-    },
-    {
-      "id": "snake",
-      "label": "Snake",
-      "icon": "play_snake.jpg",
-      "tts": {
-        "fileBase": "play_snake",
-        "templates": {
-          "1": "{dogName} sees a snake",
-          "2": "Snake outside",
-          "3": "{dogName} is alerting about a snake"
+          "3": "raccoon"
         }
       }
     },
@@ -361,8 +348,8 @@
         "fileBase": "toy_sock",
         "templates": {
           "1": "{dogName} wants the sock toy",
-          "2": "{dogName} is asking for the toy sock",
-          "3": "{dogName} wants to play with the sock toy"
+          "2": "{dogName} wants sock",
+          "3": "sock"
         }
       }
     },
@@ -375,7 +362,7 @@
         "templates": {
           "1": "{dogName} says yes",
           "2": "Yes",
-          "3": "{dogName} agrees"
+          "3": "Yes"
         }
       }
     }
