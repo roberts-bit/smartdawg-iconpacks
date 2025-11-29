@@ -94,19 +94,6 @@
       }
     },
     {
-      "id": "go_outside",
-      "label": "Go outside",
-      "icon": "outside.jpg",
-      "tts": {
-        "fileBase": "outside",
-        "templates": {
-          "1": "{dogName} wants to go outside",
-          "2": "{dogName} is asking to go outside",
-          "3": "{dogName} needs to go outside"
-        }
-      }
-    },
-    {
       "id": "happy",
       "label": "Happy",
       "icon": "Happy.jpg",
