@@ -283,8 +283,8 @@
         "fileBase": "outside",
         "templates": {
           "1": "{dogName} wants outside",
-          "2": "{dogName} is thinking about outside",
-          "3": "{dogName} wants to be outside"
+          "2": "{dogName} outside",
+          "3": "outside"
         }
       }
     },
