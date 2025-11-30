@@ -22,9 +22,9 @@
       "tts": {
         "fileBase": "bikeride",
         "templates": {
-          "1": "{dogName} wants to go on a bikeride",
-          "2": "{dogName} bikeride",
-          "3": "bikeride"
+          "1": "{dogName} wants to go on a bike ride",
+          "2": "{dogName} bike ride",
+          "3": "bike ride"
         }
       }
     },
